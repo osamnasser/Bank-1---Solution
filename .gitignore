@@ -1,0 +1,24 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# Data file (optional - remove this line if you want to include sample data)
+Clients.txt
+
+# Visual Studio files
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+# VS Code files
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
